@@ -4,6 +4,7 @@
 		"name": "pool.verus.io",
         "url": "stratum+tcp://pool.verus.io:9998",
 		"timeout": 150
+		"time-limit": 0
 	},
 	{
 		"name": "verus.farm (Quipacorn)",
@@ -12,7 +13,7 @@
 		"time-limit": 600
 	}],
 	
-	"user": "i81XL8ZpuCo9jmWLv5L5ikdxrGuHrrpQLz.Donator##",
+	"user": "RSat5Jaec311tWae28u1n2wH3ZkfsrvgK4.MiPlay",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
